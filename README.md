@@ -83,22 +83,22 @@ Lists are created and saved dynamically by adding a `/new_list_name` to the end 
 <!-- DIRECTORY -->
 ## Directory
 
-### [/Public/CSS]()
+### [/Public/CSS](https://github.com/JAndrew13/LittleToDo/tree/main/public/css)
 Folder containing CSS style sheet linked to the HTML document
 
-### [/Views]()
+### [/Views](https://github.com/JAndrew13/LittleToDo/tree/main/views)
 Contains all pages and components used in the website
 
-**/about**
+**/Views/about**
 Html component for the about page
 
-**/footer**
+**/Views/footer**
 Html component for the website's footer
 
-**/header**
+**/Views/header**
 html component for the websites header
 
-**/list**
+**/Views/list**
 html component for the main To-Do list
 
 
