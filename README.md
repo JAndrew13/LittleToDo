@@ -4,6 +4,8 @@
  Little To-Do List is a JavaScript app I created that allows users to create/delete tasks on a custom list. This project focused on compartmentalizing HTML and JS components to create and store dynamically created custom lists, each storing a unique set of tasks on a local database.
 
  Originally the project was hosted on a Heroku cloud server, but has since been retired to my local machine. If you'd like to check out the application, feel free to clone the repository and spin up a version on your own machine using the instructions below! 
+ 
+Take a look at the [live project](https://littletodo.jakebrunner.com/)
 
 <!-- TABLE OF CONTENTS -->
   ## Table of contents
